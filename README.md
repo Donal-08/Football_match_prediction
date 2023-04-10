@@ -6,5 +6,5 @@ In this project, I tried to predict if a team will win a football matche in the 
 - Scrape match data using requests, BeautifulSoup, and pandas.
 - Clean the data and get it ready for machine learning using pandas.
 - Make predictions about who will win a match using scikit-learn using several algorithms
-- Algorithms include : ** Random Forest Classifier **, ** SVM ** and more ....
+- Algorithms include : **Random Forest Classifier**, **SVM** and more ....
 - Measure error and improve our predictions.
