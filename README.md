@@ -3,8 +3,8 @@ In this project, I tried to predict if a team will win a football matche in the 
 - the **opposition team**, **venue** , **time of play(day/night)**, **day of the week** on which the match is to be played.
 
 ## Steps :-
-- Scrape match data using requests, BeautifulSoup, and pandas.
-- Clean the data and get it ready for machine learning using pandas.
-- Make predictions about who will win a match using scikit-learn using several algorithms
+- Web-Scraping the match data using requests, BeautifulSoup, and pandas from the [FBref](https://fbref.com/en/comps/9/Premier-League-Stats) website
+- Data Pre-processing and cleaning using pandas.
+- Make predictions about who will win a match with scikit-learn using various algorithms
 - Algorithms include : **Random Forest Classifier**, **SVM** and more ....
 - Measure error and improve our predictions.
